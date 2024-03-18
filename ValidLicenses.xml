@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Merged_Licenses><License Date_Status_Effective="05/06/2016" License_Class="Res PRT Firm" License_Class_Code="1507" License_Expiration_Date="05/01/2026" License_Issue_Date="11/27/2005" License_Number="85512" License_Status="N" Resident_Indicator="Y" State_Code="WC" State_ID="68721">
+                <LOA LOA_Issue_Date="04/21/2008" LOA_Name="Surety 1" LOA_Status="Y"/>
+            </License><License Date_Status_Effective="10/01/2001" License_Class="RES PRODUCER/PRODUCER FIRM" License_Class_Code="1011" License_Expiration_Date="02/01/2025" License_Issue_Date="10/01/2001" License_Number="73146" License_Status="Y" Resident_Indicator="Y" State_Code="NV" State_ID="68723">
+                <LOA LOA_Issue_Date="04/22/2002" LOA_Name="Casualty" LOA_Status="Y"/>
+                <LOA LOA_Issue_Date="05/16/2017" LOA_Name="Health" LOA_Status="Y"/>
+                <LOA LOA_Issue_Date="10/01/2001" LOA_Name="Life" LOA_Status="Y"/>
+                <LOA LOA_Issue_Date="04/22/2002" LOA_Name="Property" LOA_Status="Y"/>
+                <LOA LOA_Issue_Date="04/22/2002" LOA_Name="Surety" LOA_Status="Y"/>
+   		    </License><License Date_Status_Effective="05/01/2014" License_Class="Res Motor Club Agt/Agy" License_Class_Code="501" License_Expiration_Date="05/27/2027" License_Issue_Date="01/22/2002" License_Number="85510" License_Status="N" Resident_Indicator="Y" State_Code="NY" State_ID="68713">
+   			    <LOA LOA_Issue_Date="04/22/2012" LOA_Name="Motor Club 1" LOA_Status="N"/>
+   		    </License><License Date_Status_Effective="10/01/2003" License_Class="RES PRODUCER" License_Class_Code="1013" License_Expiration_Date="02/01/2026" License_Issue_Date="10/01/2003" License_Number="73142" License_Status="Y" Resident_Indicator="Y" State_Code="NV" State_ID="68723">
+                    <LOA LOA_Issue_Date="14/12/2018" LOA_Name="Property T1" LOA_Status="N"/>
+            </License></Merged_Licenses>

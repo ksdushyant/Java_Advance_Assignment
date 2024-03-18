@@ -1,0 +1,27 @@
+<?xml version='1.0'?>
+<!DOCTYPE CSR_Report SYSTEM 'http://www.nipr.com/html/CSR_XML_Report.dtd'>
+<CSR_Report>
+    <CSR_Report_Header Report_Type="Company Specialized Report" Title="CSR_Jones_0_1" TimeStamp_Created="06/05/2017"/>
+    <CSR_Report_Body>
+        <CSR_Producer NIPR_Number="41585823" Entity_Id="4585823" Secondary_ID="547674348, 02/16/1960">
+            <License Date_Status_Effective="10/01/2001" License_Class="RES PRODUCER/PRODUCER FIRM" License_Class_Code="1011" License_Expiration_Date="02/01/2025" License_Issue_Date="10/01/2001" License_Number="73146" License_Status="Y" Resident_Indicator="Y" State_Code="NV" State_ID="68723">
+                <LOA LOA_Issue_Date="04/22/2012" LOA_Name="Casualty T" LOA_Status="Y"/>
+                <LOA LOA_Issue_Date="14/12/2018" LOA_Name="Property T" LOA_Status="N"/>
+            </License>
+            <License Date_Status_Effective="05/01/2014" License_Class="Res Motor Club Agt/Agy" License_Class_Code="507" License_Expiration_Date="05/01/2014" License_Issue_Date="04/22/2002" License_Number="85590" License_Status="N" Resident_Indicator="Y" State_Code="NV" State_ID="68723">
+                <LOA LOA_Issue_Date="10/12/2011" LOA_Name="Property 1" LOA_Status="N"/>
+                <LOA LOA_Issue_Date="4/12/2012" LOA_Name="Property 2" LOA_Status="N"/>
+                <LOA LOA_Issue_Date="4/2/2016" LOA_Name="Property 3" LOA_Status="N"/>
+            </License>
+            <License Date_Status_Effective="05/06/2016" License_Class="Res PRT Firm" License_Class_Code="1507" License_Expiration_Date="05/01/2026" License_Issue_Date="11/27/2005" License_Number="85512" License_Status="N" Resident_Indicator="Y" State_Code="WC" State_ID="68721">
+                <LOA LOA_Issue_Date="04/21/2008" LOA_Name="Surety 1" LOA_Status="Y"/>
+            </License>
+        </CSR_Producer>
+        <CSR_Producer NIPR_Number="41581123" Entity_Id="4581123" Secondary_ID="54114348, 02/16/1990">
+            <License Date_Status_Effective="10/01/2003" License_Class="RES PRODUCER" License_Class_Code="1013" License_Expiration_Date="02/01/2026" License_Issue_Date="10/01/2003" License_Number="73142" License_Status="Y" Resident_Indicator="Y" State_Code="NV" State_ID="68723">
+                    <LOA LOA_Issue_Date="14/12/2018" LOA_Name="Property T1" LOA_Status="N"/>
+            </License>
+        </CSR_Producer>
+    </CSR_Report_Body>
+</CSR_Report>
+
